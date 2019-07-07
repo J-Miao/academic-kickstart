@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhengjie Miao
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Duke University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Database
+- Data management
+- Visual Analytics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science
+    institution: Duke University
+    year: 2022(expected)
+  - course: M.S. in Computer Science
+    institution: Duke University
+    year: 2016
+  - course: B.S. in Computer Science and Technology
+    institution: Peking University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,23 +45,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=QWv8VwYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/J-Miao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: pdf/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zj{lastname}@cs.duke.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Zhengjie Miao (苗正杰), currently a PhD student in the [Department of Computer Science, Duke University](http://www.cs.duke.edu/). I am working with [Prof. Sudeepa Roy](https://users.cs.duke.edu/~sudeepa/) and [Prof. Jun Yang](https://users.cs.duke.edu/~junyang/) on [databases](https://sites.duke.edu/duke_dbgroup/). Here is my [curriculum vitae](./pdf/cv.pdf).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before joining Duke, I received M.S. in Computer Science from [Columbia University](http://www.cs.columbia.edu/), where I've worked on interactive data analysis system under the advisory of [Prof. Eugene Wu](http://www.cs.columbia.edu/~ewu). I got my B.S. in Computer Science from [Peking University](http://eecs.pku.edu.cn/), under the advisory of [Prof. Xiaoru Yuan](http://vis.pku.edu.cn/yuanxiaoru/).
