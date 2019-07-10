@@ -31,7 +31,7 @@ education:
     institution: Duke University
     year: 2022(expected)
   - course: M.S. in Computer Science
-    institution: Duke University
+    institution: Columbia University
     year: 2016
   - course: B.S. in Computer Science and Technology
     institution: Peking University
